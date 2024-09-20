@@ -11,4 +11,4 @@
 
 # Thanks <3:
 
-- To me for provide this firmware for free.
+- For Me, to provide this firmware for free.
