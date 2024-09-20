@@ -1,5 +1,7 @@
 ### Verifone Vx520 Firmware
-
+<p align="center">
+  <a href="https://github.com/mrx7014/Verifone_Vx520_Firmware/blob/Vx520/README_AR.md"> للغه العربيه </a>
+</p>
 # How to install:
 
 - 1: Download `verifone.zip` file from releases
